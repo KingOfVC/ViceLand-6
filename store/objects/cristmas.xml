@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ASCII"?>
+	<objectlist>
+		<!-- viceland v5.4 -->
+		<object id="435"> 
+			<flags value="388"/> 
+			<collision path="decoratedPalm.col" name="veg_palmbig14"/> 
+			<texture path="decoratedPalm.txd"/> 
+			<model path="decoratedPalm.dff" distance="130"/> 
+		</object> 
+		<object id="436"> 
+			<flags value="388"/> 
+			<collision type="autogenerate"/> 
+			<texture path="xmasgift.txd"/> 
+			<model path="xmasgift.dff" distance="130"/> 
+		</object> 
+	</objectlist>

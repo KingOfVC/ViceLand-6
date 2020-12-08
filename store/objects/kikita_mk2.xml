@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ASCII"?>
+	<objectlist>
+		<!-- viceland v6 -->
+		<object id="437"> 
+			<flags value="388"/> 
+            <collision path="lahills_safe1.col" name="CE_safeground" />
+			<texture path="lahills_safe1.txd"/> 
+			<model path="CE_safeground.dff" distance="130"/> 
+		</object> 
+		<object id="438"> 
+			<flags value="388"/> 
+            <collision path="lahills_safe1.col" name="CE_safehaus_int" />
+			<texture path="lahills_safe1.txd"/> 
+			<model path="CE_safehaus_int.dff" distance="130"/> 
+		</object>
+		<object id="439"> 
+			<flags value="388"/> 
+            <collision path="PenthouseLS.col" name="PenthouseLS" />
+			<texture path="PenthouseLS.txd"/> 
+			<model path="PenthouseLS.dff" distance="130"/> 
+		</object>         
+	</objectlist>
