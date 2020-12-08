@@ -1,7 +1,7 @@
 ViceLand Script For Vice City Multiplayer
 =======================
 
-## Feature
+## Main Feature
 Complete account/admin/basic deathmatch system, Private world, Object/Pickup/Blip editor, Scripted event such as waterfight
 
 ## Addition Information
